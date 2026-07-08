@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou o Maurício 👋
 
-<!--
-**Mauriciopc92/Mauriciopc92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Sistemas com 10+ anos em TI, focado em **análise de dados,
+diagnóstico de causa raiz e automação de processos**.
 
-Here are some ideas to get you started:
+🔭 Atualmente: análise do CRM Salesforce da Claro S/A (SQL/SOQL, logs,
+Order Management) na Global Hitss — com governança de dados (LGPD) e
+documentação técnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Projeto pessoal: suíte de análise quantitativa em Python — pipeline de
+tratamento de séries temporais (pandas/NumPy), análises estatísticas,
+simulação de Monte Carlo, dashboard interativo em Streamlit e automações
+via API, rodando em infraestrutura própria com Docker e Linux.
+
+📚 Estudando: Estatística com R e Python · SQL avançado · Power BI · VBA
+
+🤖 Uso intensivo de IA generativa no ciclo de desenvolvimento: código,
+análises, testes e documentação.
+
+📫 Contato: mauriciopc92@outlook.com · [LinkedIn](https://www.linkedin.com/in/mauriciochini/)
